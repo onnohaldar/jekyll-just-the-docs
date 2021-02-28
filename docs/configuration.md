@@ -4,7 +4,7 @@ title: Configuration
 nav_order: 2
 ---
 
-## Initial setup
+# Configuration
 
 The configuration to use __Yekyll - Just The Docs__ template is just edit the ```_config.yml``` with the following initial settings:
 
