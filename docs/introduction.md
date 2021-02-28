@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Homepage
+title: Introduction
 nav_order: 1
 ---
+
+# Introduction
 
 Exploration of the __Jekyll - Just The Docs__ template as a alternative for __GitBook__ (that is no longer available as open source on premise tool).
 
