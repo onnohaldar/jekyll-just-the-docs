@@ -1,5 +1,0 @@
----
-title: homepage
----
-
-Homepage
