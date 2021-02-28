@@ -1,10 +1,12 @@
 ---
+layout: default
 title: Homepage
+nav_order: 1
 ---
 
-Inleiding test __Jekyll Just The Docs__ template als een mooi alternatief voor __GitBook__ (dat niet meer open source is en zeer onderhoudsgevoelig).
+Exploration of the __Jekyll - Just The Docs__ template as a alternative for __GitBook__ (that is no longer available as open source on premise tool).
 
-Eerste bevindingen zijn samengevat:
+First findings:
 
 | Support | Configuration | How |
 |---------|:--------------|:---------|
