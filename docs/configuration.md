@@ -17,10 +17,14 @@ After that create a ```index.md``` file with initial contents like this:
 
 ```md
 ---
-title: Homepage
+layout: default
+title: Introduction
+nav_order: 1
 ---
 
-Inleiding test __Jekyll Just The Docs__ template als een mooi alternatief voor __GitBook__ (dat niet meer open source is en zeer onderhoudsgevoelig).
+# Introduction
+
+Exploration of the ....etc.
 ```
 
 After this you should have a GitHub Page Site on ```https://(username or organisation).github.io/(repository)``` in this example [https://onnohaldar.github.io/jekyll-just-the-docs/](https://onnohaldar.github.io/jekyll-just-the-docs/)
